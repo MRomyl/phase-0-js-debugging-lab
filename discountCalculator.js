@@ -9,4 +9,3 @@ function calculateDiscountedPrice(quantity, pricePerItem) {
 }
 
 module.exports = calculateDiscountedPrice;
-module.exports = calculateDiscountedPrice;
